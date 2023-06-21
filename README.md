@@ -4,11 +4,11 @@
 
 
 #Eureka-server <br />
-Сервер для соеденения сервисов между собой
+Сервер для соеденения сервисов между собой  <br />
 [eureka-server](https://github.com/st1nkos/eureka-server) <br />  <br />  <br />
 #Api-gateway <br />
-Сервер для сокрашения ссылок между сервисами и распределения их в сети
+Сервер для сокрашения ссылок между сервисами и распределения их в сети  <br /> 
 [api-gateway](https://github.com/st1nkos/api-gateway) <br />  <br />  <br />
 #Api-gateway <br />
-Сервер backend с бизнеслогикой
+Сервер backend с бизнеслогикой <br />
 [hero-draft-helper-backend](https://github.com/st1nkos/hero-draft-helper-backend) <br />
